@@ -11,6 +11,3 @@ improvecontrast: true
 CloudNative Days Fukuoka 2020 @ ACROS Fukuoka, November 26, 2020
 
 CloudNative Days Kansai 2020 @ TBD, December, 2020
-
-
-てぇ
